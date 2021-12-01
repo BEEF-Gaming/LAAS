@@ -1,3 +1,3 @@
 # **LAAS**
-## A personal touch on what Skyrim should have been.
+## A personal touch on what Skyrim **_should_** have been.
    ![Screenshot](splash.png)
